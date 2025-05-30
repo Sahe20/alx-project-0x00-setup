@@ -1,6 +1,6 @@
 import Card from "@/components/Card"
 import React from 'react';
-import Button from '../components/Button';
+import Button from '@/components/Button';
 
 const Landing: React.FC = () => {
   return (
